@@ -8,8 +8,10 @@ Tampere University of Technology, Finland
 
 This open-source software implements the surface smoothing algorithm described in
 J.~Tohka. Surface smoothing based on a sphere shape model.
-In J.~Tanskanen, editor, {\em Proc. Nordic Signal Processing Symposium
+In J.~Tanskanen, editor, Proc. Nordic Signal Processing Symposium
 (NORSIG04)}, pages 17 -- 20. IEEE 2004. It is written in C.  
+
+http://legacy.spa.aalto.fi/sig-legacy/norsig2004/publications/12_TOHKA.PDF
 
 The
 smoothing algorithm works by 
